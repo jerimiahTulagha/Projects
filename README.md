@@ -1,2 +1,2 @@
 # Projects
-My Personal Porjects
+My Personal Projects
