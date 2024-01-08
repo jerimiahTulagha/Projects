@@ -1,7 +1,7 @@
 ## Git project implementation
 Git is an Open Source Distributed Version Control System.
 
-# Let me reak it down in bits...
+Git:
 - Control System: This basically means that Git is a content tracker. So Git can be used to store content — it is mostly used to store code due to the other features it provides.
 - Version Control System: The code which is stored in Git keeps changing as more code is added. Also, many developers can add code in parallel. So Version Control System helps in handling this by maintaining a history of what changes have happened. Also, Git provides features like branches and merges, which I will be covering later.
 Distributed Version Control System: Git 
