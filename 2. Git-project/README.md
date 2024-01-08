@@ -1,7 +1,7 @@
 ## Git project implementation
-Git is an Open Source Distributed Version Control System. Now that’s a lot of words to define Git.
+Git is an Open Source Distributed Version Control System.
 
-# Let me break it down and explain the wording:
+# Let me reak it down in bits...
 - Control System: This basically means that Git is a content tracker. So Git can be used to store content — it is mostly used to store code due to the other features it provides.
 - Version Control System: The code which is stored in Git keeps changing as more code is added. Also, many developers can add code in parallel. So Version Control System helps in handling this by maintaining a history of what changes have happened. Also, Git provides features like branches and merges, which I will be covering later.
 Distributed Version Control System: Git 
@@ -9,7 +9,7 @@ Distributed Version Control System: Git
 
 # Initializing a Repository and making commits.
 
-# Mkdir, cd, git init
+# Mkdir, cd, git init command
 
 The mkdir command creates a directory, cd command allows you change directory from one to another, and git init command creates an empty git repository.
 
